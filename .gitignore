@@ -1,0 +1,13 @@
+# Evita ficheros objeto
+*.o
+*.class
+*.lib
+
+# Evita copia de seguridad
+~*
+*.bak
+
+# Evitar contraseñas
+
+passwd
+.htpasswd
